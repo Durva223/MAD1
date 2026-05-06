@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.alerts"
+    namespace = "com.example.camera"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.alerts"
+        applicationId = "com.example.camera"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
